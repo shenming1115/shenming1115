@@ -38,9 +38,29 @@ I like projects where software meets real infrastructure: APIs that run at the e
 
     </td>
     <td width="42%">
-      <img src="https://github-readme-stats.vercel.app/api?username=shenming1115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub stats" />
+      <h3>Current Focus</h3>
+      <table>
+        <tr>
+          <td><strong>Cloud</strong></td>
+          <td>Cloudflare, AWS, edge APIs</td>
+        </tr>
+        <tr>
+          <td><strong>Network</strong></td>
+          <td>IPv6, BGP, AS199750</td>
+        </tr>
+        <tr>
+          <td><strong>Lab</strong></td>
+          <td>Proxmox, Linux, Docker</td>
+        </tr>
+        <tr>
+          <td><strong>Security</strong></td>
+          <td>Auditing, tooling, research</td>
+        </tr>
+      </table>
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=shenming1115&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub streak stats" />
+      <a href="https://bgp.tools/as/199750#asinfo">
+        <img src="https://img.shields.io/badge/AS199750-BGP.tools-0F172A?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="AS199750 on BGP.tools" />
+      </a>
     </td>
   </tr>
 </table>
@@ -126,8 +146,7 @@ I like projects where software meets real infrastructure: APIs that run at the e
 ### GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenming1115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shenming1115&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenming1115&theme=github_dark" alt="GitHub profile details" />
 </div>
 
 <br />
@@ -146,6 +165,8 @@ I like projects where software meets real infrastructure: APIs that run at the e
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenming1115/shenming1115/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shenming1115/shenming1115/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+  <br />
+  <sub>The snake appears after the GitHub Actions workflow runs once and publishes the <code>output</code> branch.</sub>
 </div>
 
 ---
@@ -161,6 +182,9 @@ I like projects where software meets real infrastructure: APIs that run at the e
   </a>
   <a href="mailto:shenming0387@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://bgp.tools/as/199750#asinfo">
+    <img src="https://img.shields.io/badge/BGP.tools-AS199750-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=38BDF8" alt="BGP.tools AS199750" />
   </a>
 </p>
 
