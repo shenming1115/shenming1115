@@ -25,13 +25,14 @@
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,scala,html,css,spring,mysql,cloudflare,aws,linux,docker,github,postman&theme=dark&perline=8" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,js,ts,scala,html,css,spring,mysql,cloudflare,aws,linux,docker,github,postman&theme=dark&perline=8" alt="Skill icons" />
 </div>
 
 <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=D4A24C" alt="Rust" />
   <img src="https://img.shields.io/badge/IPv6%20%2F%20BGP-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=D4A24C" alt="IPv6 and BGP" />
   <a href="https://bgp.tools/as/199750#asinfo">
     <img src="https://img.shields.io/badge/BGP.tools-AS199750-111827?style=for-the-badge&logo=internetcomputer&logoColor=D4A24C" alt="BGP.tools AS199750" />
@@ -54,7 +55,7 @@ I am a Computer Science student at Sunway University who enjoys building practic
 I like projects where software meets real infrastructure: APIs that run at the edge, private cloud labs, routing experiments, backend workflows, and security tools that make systems easier to understand and improve.
 
 - Currently exploring: cloud platforms, distributed systems, IPv6/BGP, security auditing, and backend architecture
-- Building with: Python, Java, JavaScript, TypeScript, Scala, Spring Boot, Docker, Linux, Cloudflare, AWS, and Proxmox
+- Building with: Python, Java, Rust, JavaScript, TypeScript, Scala, Spring Boot, Docker, Linux, Cloudflare, AWS, and Proxmox
 - Interested in: resilient services, clean APIs, automation, network research, and developer tooling
 
     </td>
