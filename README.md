@@ -1,23 +1,44 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,45:1f2937,100:0ea5e9&text=Ch'ng%20Shen%20Ming&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Cloud%20%7C%20Networking%20%7C%20Security%20%7C%20Backend&descAlignY=58&animation=fadeIn" alt="Waving profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,45:3b2618,100:d4a24c&text=Ch'ng%20Shen%20Ming&fontColor=fff7ed&fontSize=42&fontAlignY=35&desc=BGP%20%7C%20Computer%20Science%20Student%20%7C%20Cloud%20%7C%20Networking%20%7C%20Security%20%7C%20Backend&descAlignY=58&animation=fadeIn" alt="Waving profile banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ch'ng+Shen+Ming;Computer+Science+student+at+Sunway+University;Building+cloud%2C+backend%2C+networking%2C+and+security+systems;Exploring+IPv6%2FBGP%2C+distributed+systems%2C+and+homelab+infrastructure" alt="Animated typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=850&color=D4A24C&center=true&vCenter=true&width=920&lines=BGP+%7C+Computer+Science+student+at+Sunway+University;Building+cloud%2C+backend%2C+networking%2C+and+security+systems;Exploring+IPv6%2FBGP%2C+distributed+systems%2C+and+homelab+infrastructure;Designing+small+private+cloud+and+routing+lab+experiments" alt="Animated typing header" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/shenming1115">
-    <img src="https://komarev.com/ghpvc/?username=shenming1115&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=shenming1115&style=for-the-badge&color=d4a24c&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
   <a href="https://github.com/shenming1115?tab=followers">
     <img src="https://img.shields.io/github/followers/shenming1115?style=for-the-badge&logo=github&color=111827&labelColor=0f172a" alt="GitHub followers" />
   </a>
   <a href="https://github.com/shenming1115?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Developer%20Builder-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Developer portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Developer%20Builder-d4a24c?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Developer portfolio badge" />
   </a>
+</p>
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,scala,html,css,spring,mysql,cloudflare,aws,linux,docker,github,postman&theme=dark&perline=8" alt="Skill icons" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/IPv6%20%2F%20BGP-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=D4A24C" alt="IPv6 and BGP" />
+  <a href="https://bgp.tools/as/199750#asinfo">
+    <img src="https://img.shields.io/badge/BGP.tools-AS199750-111827?style=for-the-badge&logo=internetcomputer&logoColor=D4A24C" alt="BGP.tools AS199750" />
+  </a>
+  <img src="https://img.shields.io/badge/Homelab-111827?style=for-the-badge&logo=serverfault&logoColor=D4A24C" alt="Homelab" />
+  <img src="https://img.shields.io/badge/Backend-1F2937?style=for-the-badge&logo=fastapi&logoColor=D4A24C" alt="Backend" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0B1120?style=for-the-badge&logo=hackthebox&logoColor=22C55E" alt="Cybersecurity" />
 </p>
 
 ---
@@ -67,24 +88,6 @@ I like projects where software meets real infrastructure: APIs that run at the e
 
 ---
 
-### Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,scala,html,css,spring,mysql,cloudflare,aws,linux,docker,github,postman&theme=dark&perline=8" alt="Skill icons" />
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/IPv6%20%2F%20BGP-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=38BDF8" alt="IPv6 and BGP" />
-  <img src="https://img.shields.io/badge/Homelab-111827?style=for-the-badge&logo=serverfault&logoColor=38BDF8" alt="Homelab" />
-  <img src="https://img.shields.io/badge/Backend-1F2937?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="Backend" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0B1120?style=for-the-badge&logo=hackthebox&logoColor=22C55E" alt="Cybersecurity" />
-</p>
-
----
-
 ### Featured Work
 
 <table>
@@ -95,7 +98,7 @@ I like projects where software meets real infrastructure: APIs that run at the e
       <p>
         <img src="https://img.shields.io/badge/Web-0F172A?style=flat-square&logo=html5&logoColor=E34F26" alt="Web" />
         <img src="https://img.shields.io/badge/Realtime-0F172A?style=flat-square&logo=socketdotio&logoColor=white" alt="Realtime" />
-        <img src="https://img.shields.io/badge/Game_Platform-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="Game platform" />
+        <img src="https://img.shields.io/badge/Game_Platform-0F172A?style=flat-square&logo=github&logoColor=D4A24C" alt="Game platform" />
       </p>
     </td>
     <td width="50%">
@@ -122,7 +125,7 @@ I like projects where software meets real infrastructure: APIs that run at the e
       <h3>IPv6 / BGP Routing Experiments</h3>
       <p>Network research around IPv6 routing, BGP concepts, public infrastructure, peering, and operational learning.</p>
       <p>
-        <img src="https://img.shields.io/badge/IPv6-0F172A?style=flat-square&logo=internetcomputer&logoColor=38BDF8" alt="IPv6" />
+        <img src="https://img.shields.io/badge/IPv6-0F172A?style=flat-square&logo=internetcomputer&logoColor=D4A24C" alt="IPv6" />
         <img src="https://img.shields.io/badge/BGP-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020" alt="BGP" />
         <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Networking" />
       </p>
@@ -143,31 +146,87 @@ I like projects where software meets real infrastructure: APIs that run at the e
 
 ---
 
-### GitHub Analytics
+## Homelab
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenming1115&theme=github_dark" alt="GitHub profile details" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shenming1115&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8" alt="Contribution activity graph" />
-</div>
+<table>
+  <tr>
+    <td width="55%">
+      <h3>Private Cloud Playground</h3>
+      <p>I am building a small private cloud using <strong>Proxmox VE</strong>, focused on practical infrastructure, secure access, automation, and self-hosted services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
+        <img src="https://img.shields.io/badge/Debian%20LXC-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian LXC" />
+        <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
+      </p>
+    </td>
+    <td width="45%">
+      <table>
+        <tr>
+          <td><strong>Compute</strong></td>
+          <td>Mini server with Proxmox VE</td>
+        </tr>
+        <tr>
+          <td><strong>Containers</strong></td>
+          <td>Debian LXC containers</td>
+        </tr>
+        <tr>
+          <td><strong>Access</strong></td>
+          <td>Tailscale private access</td>
+        </tr>
+        <tr>
+          <td><strong>Public Edge</strong></td>
+          <td>Cloudflare Tunnel for public services</td>
+        </tr>
+        <tr>
+          <td><strong>Ops</strong></td>
+          <td>Monitoring dashboard and Telegram bot automation</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Contribution Snake
+## Networking Lab
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shenming1115/shenming1115/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenming1115/shenming1115/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shenming1115/shenming1115/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-  <br />
-  <sub>The snake appears after the GitHub Actions workflow runs once and publishes the <code>output</code> branch.</sub>
-</div>
+<table>
+  <tr>
+    <td width="45%">
+      <h3>AS199750</h3>
+      <p>Learning public routing, IPv6 operations, tunnel-based labs, route monitoring, and BGP tooling through hands-on experiments.</p>
+      <p>
+        <a href="https://bgp.tools/as/199750#asinfo">
+          <img src="https://img.shields.io/badge/BGP.tools-AS199750-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=D4A24C" alt="BGP.tools AS199750" />
+        </a>
+      </p>
+    </td>
+    <td width="55%">
+      <table>
+        <tr>
+          <td><strong>ASN</strong></td>
+          <td><code>AS199750</code></td>
+        </tr>
+        <tr>
+          <td><strong>IPv6 Allocation</strong></td>
+          <td><code>2a0f:1cc5:3100::/40</code></td>
+        </tr>
+        <tr>
+          <td><strong>Routing</strong></td>
+          <td>BGP, DN42, FRR/BIRD</td>
+        </tr>
+        <tr>
+          <td><strong>Tunnels</strong></td>
+          <td>WireGuard tunnels</td>
+        </tr>
+        <tr>
+          <td><strong>Monitoring</strong></td>
+          <td>Route visibility and network status tracking</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -178,16 +237,16 @@ I like projects where software meets real infrastructure: APIs that run at the e
     <img src="https://img.shields.io/badge/GitHub-shenming1115-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://shenming.my">
-    <img src="https://img.shields.io/badge/Website-shenming.my-38BDF8?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-shenming.my-d4a24c?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:shenming0387@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bgp.tools/as/199750#asinfo">
-    <img src="https://img.shields.io/badge/BGP.tools-AS199750-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=38BDF8" alt="BGP.tools AS199750" />
+    <img src="https://img.shields.io/badge/BGP.tools-AS199750-0F172A?style=for-the-badge&logo=internetcomputer&logoColor=D4A24C" alt="BGP.tools AS199750" />
   </a>
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:1f2937,100:050505" alt="Waving footer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:d4a24c,50:3b2618,100:050505" alt="Waving footer banner" />
 </div>
