@@ -239,7 +239,7 @@ I like projects where software meets real infrastructure: APIs that run at the e
   <a href="https://shenming.my">
     <img src="https://img.shields.io/badge/Website-shenming.my-d4a24c?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:shenming0387@gmail.com">
+  <a href="mailto:contact@shenming.my">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://bgp.tools/as/199750#asinfo">
